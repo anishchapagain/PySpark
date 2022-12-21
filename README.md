@@ -14,7 +14,7 @@ PySparkSQL introduced the DataFrame, a tabular representation of structured data
 PySpark SQL is a module in Spark which integrates relational processing with Spark's functional programming API. We can extract the data by using an SQL query language. We can use the queries same as the SQL language.
 
 -------------
-Apache Spark: https://spark.apache.org/
+Apache Spark: https://spark.apache.org/ 
 
 PySpark 3.2.1 documentation: https://spark.apache.org/docs/latest/api/python/
 
